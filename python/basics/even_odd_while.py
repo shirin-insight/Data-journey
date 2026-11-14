@@ -1,3 +1,9 @@
+# Exercise: Even or Odd Numbers
+#
+# Question:
+# Use a while loop to print whether each number
+# from 1 to 10 is even or odd.
+
 number = 1
 
 while number <= 10:
